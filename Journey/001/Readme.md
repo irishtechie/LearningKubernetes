@@ -1,6 +1,10 @@
 # Day 1 of 100DaysOfKubernetes
 
-It's taken me a while to get to Day 1 on this journey. For Day 1/100 I thought that I would create a 'Terminology Primer'. The aim of this is to help people who are just beginning their Kubernetes journey to get familiar with the various terms that they will encounter. I'll be using this as a reference for my own learning. It will evolve over time with additions and updates as I learn more.
+It's taken me a while to get to Day 1 on this journey. For Day 1/100 I thought that I would create a 'Terminology Primer'. The aim of this is to help people who are just beginning their Kubernetes journey to get familiar with the various terms that they will encounter.
+
+I've spent some time over the last few days researching some terms and documenting them here.
+
+I'll be using this as a reference for my own learning. It will evolve over time with additions and updates as I learn more.
 
 ## Terminology Primer
 
