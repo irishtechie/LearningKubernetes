@@ -14,6 +14,7 @@ Kubernetes Resources
 - [TechWorld with Nana](https://www.youtube.com/watch?v=X48VuDVv0do)
 - [FreeCodeCamp](https://www.youtube.com/watch?v=Wf2eSG3owoA)
 - [Anais Urlichs #100DaysOfKubernetes](https://www.youtube.com/watch?v=W6J6UipVNGA&list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV)
+- [100 Days of Kubernetes Online Book](https://100daysofkubernetes.io/)
 
 ## Books:
 - [Kubernetes: A Step by Step Guide to Learn  and Master Kubernetes](https://www.amazon.com/Kubernetes-Step-Step-Guide-Master/dp/1090401639?tag=uuid10-20)
@@ -26,8 +27,8 @@ Kubernetes Resources
 
 ## My Progress - #100DaysOfKubernetes
 
-- [My Twitter](https://twitter.com/rishabk7)
-- [My LinkedIn](https://www.linkedin.com/in/rishabkumar7)
+- [My Twitter](https://twitter.com/Karl_ITNerd)
+- [My LinkedIn](https://www.linkedin.com/in/karlcooke/)
 
 ## Stepping out the door
 
